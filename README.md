@@ -8,8 +8,8 @@ As a proof of concept, converted TN VDP V3 V9958 to run on this board:
 
 ![Space Manbow](images/space-manbow-1280.png)
 
-![PCB front](pcb-front-1280.jpg)
+![PCB front](images/pcb-front-1280.jpg)
 
-![PCB back](pcb-back-1280.jpg)
+![PCB back](images/pcb-back-1280.jpg)
 
 
